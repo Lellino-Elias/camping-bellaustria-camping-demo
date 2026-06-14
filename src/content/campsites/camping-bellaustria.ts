@@ -114,7 +114,7 @@ const campingBellaustria: CampsiteConfig = {
       {
         title: "Bar, Eisdiele & Minimarkt",
         text: "Im Mittelpunkt der Anlage findest du Restaurant, Bar mit Eisdiele und einen Minimarkt für die kleinen Besorgungen.",
-        image: { src: `${IMG}/gallery-12fe123b67.webp`, alt: "Hauptgebäude von Camping Bella Austria mit Terrasse" },
+        image: { src: `${IMG}/gallery-e089ac4f2e.webp`, alt: "Shop & Minimarkt von Camping Bella Austria" },
       },
     ],
   },
