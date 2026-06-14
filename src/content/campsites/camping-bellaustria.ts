@@ -88,7 +88,7 @@ const campingBellaustria: CampsiteConfig = {
     features: [
       {
         title: "Geräumige Stellplätze",
-        text: "Schattige Plätze von 10 × 11 Metern, jeder mit 16-Ampere-Strom sowie Wasser- und Abwasseranschluss — für Zelt, Wohnwagen oder Wohnmobil.",
+        text: "Schattige 10 × 11-Meter-Plätze mit 16-Ampere-Strom, Wasser- und Abwasseranschluss — für Zelt, Wohnwagen oder Wohnmobil.",
         image: { src: `${IMG}/gallery-647be596e8.webp`, alt: "Stellplätze und Mobilheime am Camping Bella Austria von oben" },
       },
       {
@@ -127,7 +127,7 @@ const campingBellaustria: CampsiteConfig = {
       {
         name: "Happy Easy",
         kind: "Mobilheim · 2 Schlafzimmer",
-        text: "24 m² mit zwei Schlafzimmern, voll ausgestatteter Küchenzeile, eigenem Bad und Sitzecke mit Schlafsofa — Platz für bis zu 6 Personen.",
+        text: "24 m² mit zwei Schlafzimmern, Küchenzeile, Bad und Schlafsofa — Platz für bis zu 6 Personen.",
         image: { src: `${IMG}/gallery-240069c80a.webp`, alt: "Mobilheim Happy Easy mit überdachter Terrasse am Camping Bella Austria" },
         priceFrom: 45,
         features: ["24 m²", "Bis 6 Personen", "Küche, Bad & WLAN", "Überdachte Terrasse"],
@@ -135,7 +135,7 @@ const campingBellaustria: CampsiteConfig = {
       {
         name: "Happy Plus",
         kind: "Mobilheim · 3 Schlafzimmer",
-        text: "32 m² mit drei Schlafzimmern, offener Küche, Klimaanlage und WLAN — für bis zu 7 Personen, mit überdachter Terrasse und Gartenmöbeln.",
+        text: "32 m² mit drei Schlafzimmern, Küche, Klimaanlage und WLAN — für bis zu 7 Personen, mit überdachter Terrasse.",
         image: { src: `${IMG}/accommodation-2201925165.webp`, alt: "Mobilheim Happy Plus mit Terrasse und Gartenmöbeln" },
         priceFrom: 55,
         features: ["32 m²", "Bis 7 Personen", "Klimaanlage & WLAN", "Überdachte Terrasse"],
